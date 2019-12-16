@@ -34,7 +34,7 @@ pricing:
     # pricing table loop
     - title : Gold
       price : $899
-      unit : month
+      unit : Development
       link : "#contact"
       service:
         - eCommerce Business
@@ -53,7 +53,7 @@ pricing:
     # pricing table loop
     - title : Platinum
       price : $1299
-      unit : month
+      unit : Development
       link : "#contact"
       service:
         - eCommerce Business Plus
