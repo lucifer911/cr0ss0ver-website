@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://cr0ss0ver.com"
+baseURL = "https://cr0ss0ver.netlify.com"
 title = "Meghna"
 theme = "meghna-hugo"
 # post pagination
