@@ -4,7 +4,7 @@ contact:
   title : Contact Us
   subtitle : Contact Details
   content : At cr0ss0ver we delvolp high-perfoming website and provide Hosting plan so your website can load faster. 
-  form_Action: "#" #contact form works with https://formspree.io
+  form_Action: "https://formspree.io/mayqwegl" #contact form works with https://formspree.io
   map:
     enable : true
     gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
