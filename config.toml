@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://cr0ss0ver.com"
-title = "Meghna"
+title = "cr0ss0ver"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
