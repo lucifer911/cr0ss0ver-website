@@ -1,0 +1,72 @@
+##################################### pricing ##############################
+pricing:
+  enable : true
+  title : Our Plans
+  pricing_Table :
+    # pricing table loop
+    - title : Static site
+      price : $350
+      unit : Development
+      link : "#contact"
+      service:
+        - Static website
+        - Contact form
+        - Hosting for 1 year
+        - $30/year for hosting 
+        - SSL
+        - Updating contact $50/h
+      
+    # pricing table loop
+    - title : Wordpress site
+      price : $699
+      unit : Development
+      link : "#contact"
+      service:
+        - 5 pages
+        - Wordpress Website
+        - In-Person consultation
+        - Custumization of Theme
+        - Social Media Integration
+        - Contac Us Form
+        - 2 Hours of Revisions
+        - $150 per additional 
+        
+    # pricing table loop
+    - title : Gold
+      price : $899
+      unit : month
+      link : "#contact"
+      service:
+        - eCommerce Business
+        - 5 pages + Online Store
+        - Wordpress Website
+        - In-Person consultation
+        - Custumization of Theme
+        - Social Media Integration
+        - Contac Us Form
+        - 2 Hours of Revisions
+        - $150 per additional 
+        - WooCommerce integration
+        - PayPal Integration
+        - 4 Product Entries
+        
+    # pricing table loop
+    - title : Platinum
+      price : $1299
+      unit : month
+      link : "#contact"
+      service:
+        - eCommerce Business Plus
+        - 5 pages + Online Store
+        - Wordpress Website
+        - In-Person consultation
+        - Custumization of Theme
+        - Social Media Integration
+        - Contac Us Form
+        - 2 Hours of Revisions
+        - $150 per additional 
+        - WooCommerce integration
+        - PayPal Integration
+        - 10 Product Entries
+        - 2 Hour backend Tutorial
+        - Branding

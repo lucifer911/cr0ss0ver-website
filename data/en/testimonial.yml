@@ -1,0 +1,28 @@
+################################# Testimonial #########################
+testimonial:
+  enable : true
+  bg_Image : images/backgrounds/bg-2.jpg
+  testimonial_Item :
+    # testimonial item loop
+    - name : Alexa
+      image : images/team/ers.png
+      date : ERS Intl
+      content : cr0ss0ver work speak for it self. Our website is contact heavy. They presented us with great solution. On our site we have live video, Online booking, Downloaded able pdf, feedback and FAQ.
+    
+    # testimonial item loop
+    - name : Tom
+      image : images/team/lux.png
+      date : Luxe Security
+      content : It was hard to comeup with an Idea for security website. I was surprise, that how Cr0ss0ver took my idea and make us a amazing website.
+    
+    # testimonial item loop
+    - name : Samentha
+      image : images/team/416salon.png
+      date : 416Salon
+      content : I was starting new jurny in hair styl business. Was looking to have Cheapest website with online booking system. Cr0ss0ver helped me to achived my goals. Now I have working website with online booking system. Cr0ss0ver helped me to connect my social account with my site, So now if I post on instagram, my pics shows up on my website.
+
+    # testimonial item loop
+    - name : Ronda
+      image : images/team/MJprint.png
+      date : mjPrint
+      content : All I was looking to sell T-Shirts online. Cr0ss0ver help to setup my site. My site have product and I can sell them online with paypal. They even thought me how the backend works.

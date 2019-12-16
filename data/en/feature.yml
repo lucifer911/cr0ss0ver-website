@@ -1,0 +1,15 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  title : We’re A Digital Design Company.
+  content : "At Cr0ss0ver its all about customer Satisfaction. We know that online presence is every thing now a days, that is why we put forword our bust solution for you.  "
+  feature_Item : 
+
+    - icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      title : Easy Customization
+      content : 
+
+    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      title : SEO Optimized
+      content : 

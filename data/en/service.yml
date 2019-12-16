@@ -1,0 +1,17 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_Item :
+    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      title : Web Hosting
+      content : We provide few different tear of hosting plans. See the hosting plans [click here] <— This will take you to hosting plans.
+
+    - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      title : Website Design
+      content : We build Amazing website to create your online presence. We take care of SSL, Daily backups. Your website will be hosted on multiple servers, so If site is down, your customers will still be able to visit your site.
+      
+    - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
+      title : Graphic Design
+      content : We can bring your ideas to life by creating custom logos for your online presence.
+     

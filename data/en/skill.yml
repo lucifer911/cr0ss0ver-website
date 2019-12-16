@@ -1,0 +1,28 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Skills
+  subtitle : We’ve skilled in wide range of web development hosting tools.
+  content : We skilled on developing and hosting the websites on many platfom. Secureing the sites and backups are the our regular practic!
+  image : images/about/company-growth.png
+  skill_Item :
+    - name :  Static Website
+      percent : 90%
+      
+    - name :  Wordpress Premium
+      percent : 100%
+      
+    - name :  Google Hosting
+      percent : 80%
+
+    - name :  Ubuntu VPS Hosting 
+      percent : 100% 
+      
+    - name :  3rd parting Hosting
+      percent : 95%
+      
+    - name :  SSL 
+      percent : 100%
+
+    - name :  Daily backups 
+      percent : 99%

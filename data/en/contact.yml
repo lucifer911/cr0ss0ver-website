@@ -1,0 +1,22 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : At cr0ss0ver we delvolp high-perfoming website and provide Hosting plan so your website can load faster. 
+  form_Action: "#" #contact form works with https://formspree.io
+  map:
+    enable : true
+    gmapAPI : "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+    mapLatitude : 43.651070
+    mapLongitude: -79.347015
+
+  contact_Details :
+    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
+      info : "Ontario, Toronto"
+      
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : "Phone: 416-300-6318"
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: info@cr0ss0ver.com"
