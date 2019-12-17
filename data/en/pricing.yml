@@ -32,7 +32,7 @@ pricing:
         - $150 per additional 
         
     # pricing table loop
-    - title : Gold
+    - title : eCommerce
       price : $899
       unit : Development
       link : "#contact"
@@ -51,7 +51,7 @@ pricing:
         - 4 Product Entries
         
     # pricing table loop
-    - title : Platinum
+    - title : Custom Built
       price : $1299
       unit : Development
       link : "#contact"
