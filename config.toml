@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://cr0ss0ver.com"
-title = "cr0ss0ver"
+baseURL = "https://nddintel.com"
+title = "Nova Designs & Development International"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
